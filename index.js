@@ -57,8 +57,5 @@ newArray.push(80);
 newArray.push(90);
 newArray.push(100);
 
-
-
-
 console.log(newArray.getAvg());
 console.log(newArray);
